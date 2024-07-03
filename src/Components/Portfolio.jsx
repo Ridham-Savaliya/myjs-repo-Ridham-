@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Password-manager-app:",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Here is the Working Link to My password manager i built this using(React,html,css,javascript) It can Save your Credentials into the (browser's localStorage) So that's why it increses the Security And Also i Deploy it on Netlify.com(Responsive)",
+    url: "https://passwordopmanager.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "weather-app",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I created a weather app using html, CSS,javascript and API which displays current place temperature,wind speed and also displays the current situation using API(Openweathermap.org). hello Guys So this is my weather app",
+    url: "https://windy-weatherforecast.netlify.app/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created My Portfolio Site using HTML,Css,Javascript.",
+    url: "https://ridham-portfolio.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Spotify-Clone",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It is a Spotify clone app which can play your favourite albums songs and also offers the client side super easy mechanism to publish new albums from client side....",
+    url: "https://ridhamtech.freewebhostmost.com/",
   },
 ];
 
