@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Password-manager-app:",
     description:
-      "Here is the Working Link to My password manager i built this using(React,html,css,javascript) It can Save your Credentials into the (browser's localStorage) So that's why it increses the Security And Also i Deploy it on Netlify.com(Responsive)",
+      "Here is the Working Link to My password manager i built this using(React,html,css,javascript) dfgr It can Save your Credentials into the (browser's localStorage) So that's why it increses the Security And Also i Deploy it on Netlify.com(Responsive)",
     url: "https://passwordopmanager.netlify.app/",
   },
   {
